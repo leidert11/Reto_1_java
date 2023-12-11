@@ -9,12 +9,12 @@ package com.examenjava.reto_1_java;
  * @author user
  */
 
-// este codigo en java es la serie fibonacci 
-// dentro del metodo main, declaramos las variables "a" y "b" e 
-// inicializamos "a" como 0 y "b" como 1, luego, usamos un bucle "for" para 
+// este codigo de java es la serie fibonacci 
+// dentro del metodo main, declaramos las variables "a" y "b"  le damos los
+// valores a las variables "a" como 0 y "b" como 1, luego, usamos un bucle for para 
 // iterar 10 veces en cada iteracion imprimimos el valor de "a" y luego
-// actualizamos los valores de "a" y "b" para el siguiente numero en la
-// secuencia 
+// actualizamos los valores de "a" y "b" para el siguiente
+// numero en la secuencia 
 
 public class Punto4 {
         public static void main(String[] args) {
